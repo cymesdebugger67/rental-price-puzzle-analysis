@@ -1,0 +1,3 @@
+bedroom_group,listings,median_rent,bootstrap_ci_low,bootstrap_ci_high,contrast_two_minus_one,contrast_ci_low,contrast_ci_high,exploratory_mann_whitney_p_value
+1 bedroom,32038,1220,1210,1225,,,,
+2 bedrooms,36670,1400,1395,1406,180,173.738,190.525,0

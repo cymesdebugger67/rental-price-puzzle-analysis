@@ -1,0 +1,5 @@
+strategy,partition,listings,share_percent,states,property_groups
+property_grouped_80_20_hash_holdout,train,79196,79.9140,51,49841
+property_grouped_80_20_hash_holdout,test,19905,20.0860,51,12413
+unseen_state_hash_holdout,train,82247,82.9930,43,51013
+unseen_state_hash_holdout,test,16854,17.0070,8,11241

@@ -1,0 +1,4 @@
+model,folds,mean_cv_mae_usd,sd_cv_mae_usd,mean_cv_rmse_usd,mean_cv_r2,max_cv_prediction_usd,predictions_over_100k
+random_forest_log_rent,3,321.611,2.28217,620.289,0.514346,13964.5,0
+ridge_log_rent,3,336.861,1.92673,681.609,0.413714,4084.84,0
+median_baseline,3,523.975,5.57095,907.13,-0.0384115,1352,0

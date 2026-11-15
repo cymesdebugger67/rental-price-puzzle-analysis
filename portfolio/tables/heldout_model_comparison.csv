@@ -1,0 +1,5 @@
+evaluation,model,training_listings,heldout_listings,mae_usd,rmse_usd,r2
+primary,median_baseline,79196,19905,520.317,970.163,-0.0344429
+primary,random_forest_log_rent,79196,19905,312.371,628.83,0.565406
+geographic,median_baseline,82247,16854,911.144,1674.89,-0.332667
+geographic,random_forest_log_rent,82247,16854,1036.3,1644.82,-0.285246

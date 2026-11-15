@@ -1,0 +1,45 @@
+{
+  "author": "Cyril James Lunzaga",
+  "dataset_citation": "Apartment for Rent Classified [Dataset]. (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5X623.",
+  "source_sha256": "6adeae31e5507e39feb03acf811547a5331d2329c5a24ed1b1f1455fc1835916",
+  "assignment_sha256": "eed0e59e56f4c457841a882f10af66d3828782b131f829b9e5c1627cfb3e135d",
+  "selected_model": "random_forest_log_rent",
+  "primary_mae_usd": 312.371,
+  "geographic_mae_usd": 1036.3,
+  "figures": [
+    "asking_rent_distribution.png",
+    "rent_vs_floor_area.png",
+    "state_rent_comparison.png",
+    "bedroom_rent_comparison.png",
+    "state_sample_concentration.png",
+    "rent_area_tail_diagnostics.png",
+    "bedroom_median_intervals.png",
+    "grouped_cv_mae_comparison.png",
+    "holdout_mae_comparison.png",
+    "primary_actual_vs_predicted.png",
+    "primary_absolute_error_distribution.png",
+    "unseen_state_mae.png"
+  ],
+  "tables": [
+    "cohort_flow.csv",
+    "field_missingness.csv",
+    "rent_quantiles.csv",
+    "state_rent_summary.csv",
+    "city_rent_summary.csv",
+    "split_summary.csv",
+    "bedroom_median_contrasts.csv",
+    "grouped_cv_model_comparison.csv",
+    "heldout_model_comparison.csv",
+    "primary_state_errors.csv",
+    "unseen_state_errors.csv",
+    "training_defined_tail_sensitivity.csv"
+  ],
+  "reports": [
+    "source_assessment.md",
+    "model_readiness.md",
+    "preparation_review.md",
+    "statistical_note.md",
+    "model_development.md",
+    "heldout_evaluation.md"
+  ]
+}

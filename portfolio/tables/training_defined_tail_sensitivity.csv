@@ -1,0 +1,7 @@
+evaluation,sensitivity_group,train_p99_usd,heldout_listings,mae_usd,median_absolute_error_usd
+primary,full_holdout,4238.05,19905,312.371,199.241
+primary,at_or_below_train_p99,4238.05,19699,284.91,197.269
+primary,above_train_p99,4238.05,206,2938.34,2019.88
+geographic,full_holdout,3646.08,16854,1036.3,757.785
+geographic,at_or_below_train_p99,3646.08,15703,834.445,699.168
+geographic,above_train_p99,3646.08,1151,3790.16,2933.37
